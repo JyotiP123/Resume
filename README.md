@@ -1,5 +1,5 @@
 # Resume
-This repository contains the final draft of my resume.
+This repository contains the draft of my resume.
 
 
 <p align="center"> 
